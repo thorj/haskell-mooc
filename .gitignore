@@ -1,5 +1,6 @@
 *~
 *.lock
 .stack-work
+*.swp
 score.json
 dump
